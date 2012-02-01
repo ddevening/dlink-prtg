@@ -1,0 +1,44 @@
+﻿<!--
+http://www.paessler.com/manuals/prtg9/exe_script_sensor.htm
+https://prtg.paessler.com/api.htm?username=demo&password=demodemo#tab7
+-->
+
+<prtg>
+  <result>
+    <channel>DLink Channel</channel>
+    <value>3</value>
+  </result>
+  <result>
+    <channel>Demo Disk Free</channel>
+    <unit>Percent</unit>
+    <mode>Absolute</mode>
+    <showChart>1</showChart>
+    <showTable>1</showTable>
+    <warning>0</warning>
+    <float>1</float>
+    <value>38.4487</value>
+  </result>
+  <result>
+    <channel>Temp</channel>
+    <unit>SpeedNet</unit>
+    <volumeSize>MegaBit</volumeSize>
+    <mode>Absolute</mode>
+    <showChart>1</showChart>
+    <showTable>1</showTable>
+    <warning>0</warning>
+    <float>0</float>
+    <value>124487000</value>
+  </result>
+  <result>
+    <channel>Demo Custom</channel>
+    <unit>Custom</unit>
+    <customUnit>Pieces</customUnit>
+    <mode>Absolute</mode>
+    <showChart>1</showChart>
+    <showTable>1</showTable>
+    <warning>0</warning>
+    <float>0</float>
+    <value>855</value>
+  </result>
+  <text>Demo values. OS: Windows_NT</text>
+</prtg>

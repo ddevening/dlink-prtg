@@ -1,0 +1,1 @@
+<prtg><error>1</error><text>This sensor requires the 'Set placeholders as environment values' option set</text></prtg>
