@@ -1,5 +1,19 @@
-This is my sample project
-=========================
+Custom PRTG Network Monitor
+===========================
 
+
+C# Project to read admin Page from DLINK-323 NAS
+===============================================
+
+* Results returned add XML
+* Returns Tempature
+* Returns % disk space used
+* Returns used disk space
+* Returns free disk space
+
+
+Reference
+=========
 
 http://code.google.com/p/prtg-addons/wiki/PTF_Custom_Sensors
+http://www.paessler.com/manuals/prtg9/exe_script_advanced_sensor.htm
