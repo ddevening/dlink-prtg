@@ -1,6 +1,5 @@
-Custom PRTG Network Monitor
-===========================
-
+Custom XML PRTG Network Monitor
+===============================
 
 C# Project to read admin Page from DLINK-323 NAS
 ===============================================
@@ -10,7 +9,6 @@ C# Project to read admin Page from DLINK-323 NAS
 * Returns % disk space used
 * Returns used disk space
 * Returns free disk space
-
 
 Sample Source
 =============
